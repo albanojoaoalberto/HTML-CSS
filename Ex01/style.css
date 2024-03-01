@@ -1,0 +1,44 @@
+body
+{
+    background-color: #1584b8;
+    font-family: poppins;
+}
+h1
+{
+    color: white;
+    text-align: center;
+}
+
+section
+{
+    
+    background-color:aliceblue;
+    margin-top: 25px;
+    border-radius: 15px;
+    width: 500px;   
+    padding: 100px;
+    margin: 0 auto;
+    box-shadow: 12px 10px 1px rgba(0, 0, 0, 0.432);
+}
+
+footer
+{
+    color: aliceblue;
+    text-align: center;
+    font-weight: 600;
+}
+
+div
+{
+    margin-top: 10px;
+}
+
+button
+{
+    cursor: pointer;
+}
+
+b{
+    color: red;
+    
+}
